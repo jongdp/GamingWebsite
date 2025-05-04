@@ -27,9 +27,6 @@ body {
 }
 
 /* Search Bar in Navigation Bar */
-.leftnav {
-}
-
 .middlenav {
     display: flex;
     flex: 1;
@@ -41,7 +38,5 @@ body {
     font-size: 15px;
     border-radius: 100px;
     flex: 1;
-}
-
-.rightnav {
+    text-indent: 5px;
 }
